@@ -1,5 +1,5 @@
 # Habit tracker that allows users to add habits, log their completion, view progress, and visualize it using a bar chart.
-# uses a dictionary to store habits and their completion dates, and it provides a menu-driven interface for user interaction.
+# uses a dictionary to store habits and their completion dates
 # Provides feedback based on the user's input.
 
 import datetime  # im importing datetime for date handling
@@ -112,4 +112,5 @@ if __name__ == "__main__":
 
 
 # Done by: Sheila Divhani Dzhivhuho
+
 
