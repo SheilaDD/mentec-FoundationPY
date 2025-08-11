@@ -1,6 +1,6 @@
-# This code is a simple habit tracker that allows users to add habits, log their completion, view progress, and visualize it using a bar chart.
-# The code uses a dictionary to store habits and their completion dates, and it provides a menu-driven interface for user interaction.
-# The code is structured to be user-friendly and provides feedback based on the user's input.
+# Habit tracker that allows users to add habits, log their completion, view progress, and visualize it using a bar chart.
+# uses a dictionary to store habits and their completion dates, and it provides a menu-driven interface for user interaction.
+# Provides feedback based on the user's input.
 
 import datetime  # im importing datetime for date handling
 import matplotlib.pyplot as plt  # im importing matplotlib for data visualization
@@ -112,3 +112,4 @@ if __name__ == "__main__":
 
 
 # Done by: Sheila Divhani Dzhivhuho
+
